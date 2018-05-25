@@ -1,3 +1,5 @@
 div {
     word-wrap: break-word;
+    width: 500px;
+    margin: auto;
 }
